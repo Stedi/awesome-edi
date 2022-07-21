@@ -8,7 +8,7 @@ Pull Requests welcome! Feel free to email us at team@stedi.com or log an issue o
 
 - [EDI Core (Stedi)](https://www.stedi.com/products/edi-core) - an API for programmatically translating EDI to JSON, and vice versa. 
 - [Stupidedi](https://github.com/kputnam/stupidedi) - a library for parsing, generating, validating, and manipulating ASC X12 EDI documents. Very roughly, it&#39;s jQuery for EDI.
-- [EDI Nation](https://www.edination.com) - EDI API to translate and validate B2B and healthcare EDI files
+- [EDI Nation](https://www.edination.com) - EDI API to translate and validate B2B and healthcare EDI files.
 
 ## Reference sites
 
