@@ -6,7 +6,7 @@ Pull Requests welcome! Feel free to email us at team@stedi.com or log an issue o
 
 ## Parsers
 
-- [EDI Core (Stedi)](https://www.stedi.com/products/edi-core) - an API for programmatically translating EDI to JSON, and vice versa. 
+- [EDI Translate (Stedi)](https://www.stedi.com/products/edi-translate) - an API for programmatically translating between EDI and JSON. 
 - [Stupidedi](https://github.com/kputnam/stupidedi) - a library for parsing, generating, validating, and manipulating ASC X12 EDI documents. Very roughly, it&#39;s jQuery for EDI.
 
 ## Reference sites
@@ -26,9 +26,10 @@ Pull Requests welcome! Feel free to email us at team@stedi.com or log an issue o
 - [Mappings (Stedi)](https://www.stedi.com/products/mappings) - a visual mapping editor to create advanced data transformations using an open-source language called JSONata. Once a mapping is defined, users can invoke it via API. 
 - [JSONata Playground (Stedi)](https://www.stedi.com/jsonata/playground) - a free online tool to learn and experiment with JSONata. 
 - [SFTP (Stedi)](https://www.stedi.com/products/sftp) - serverless SFTP endpoints to facilitate file transfer between trading partners. Users can be provisioned via UI or API.
-- [Converter (Stedi)](https://www.stedi.com/products/converter) - an API that provides a convenient way of converting CSV to JSON, JSON to CSV, and XML to JSON.
+- [Write EDI demo (Stedi)](https://github.com/Stedi-Demos/write-edi-demo) - open-source, end-to-end system to generate outbound X12 EDI from a JSON.
+- [EDI Guides (Stedi)](https://www.stedi.com/products/guides) - create machine-readable EDI specifications.
 
-## Blog posts
+## Content
 
 - [What makes EDI so hard](https://www.stedi.com/blog/what-makes-edi-so-hard)
 - [Getting started with the X12 file format](https://www.stedi.com/blog/getting-started-with-the-x12-file-format)
@@ -36,6 +37,8 @@ Pull Requests welcome! Feel free to email us at team@stedi.com or log an issue o
 - [Date and time in EDI](https://www.stedi.com/blog/date-and-time-in-edi)
 - [What is EDI](http://www.markpreston.co.uk/Lecture17102/krock/krock.html)
 - [EDI Data Types](https://docs.tibco.com/pub/foresight/foresight_EDISIM/6.11.0-july-2011/DataTypes.pdf)
+- [Elements requirements in X12 EDI](https://www.stedi.com/edi/essentials/x12/elements/element-requirements)
+- [Relational conditions in X12 EDI](https://www.stedi.com/edi/essentials/x12/elements/relational-conditions)
 
 ## Online resources
 *For newbies looking to learn about EDI*
