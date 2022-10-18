@@ -27,6 +27,7 @@ Pull Requests welcome! Feel free to email us at team@stedi.com or log an issue o
 - [JSONata Playground (Stedi)](https://www.stedi.com/jsonata/playground) - a free online tool to learn and experiment with JSONata. 
 - [SFTP (Stedi)](https://www.stedi.com/products/sftp) - serverless SFTP endpoints to facilitate file transfer between trading partners. Users can be provisioned via UI or API.
 - [Write EDI demo (Stedi)](https://github.com/Stedi-Demos/write-edi-demo) - open-source, end-to-end system to generate outbound X12 EDI from a JSON.
+- [Read EDI demo (Stedi)](https://github.com/Stedi-Demos/read-edi-demo) - open-source, end-to-end system to read inbound X12 EDI and translate it to JSON.
 - [EDI Guides (Stedi)](https://www.stedi.com/products/guides) - create machine-readable EDI specifications.
 
 ## Content
