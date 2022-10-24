@@ -45,6 +45,7 @@ Pull Requests welcome! Feel free to email us at team@stedi.com or log an issue o
 *For newbies looking to learn about EDI*
 
 - [EDI basics](https://www.edibasics.com) - EDI fundamentals
+- [EDI Essentials (Stedi)](https://www.stedi.com/edi/essentials/index) - just enough to get started with EDI 
 - [GXS Tutorial](http://www.edibasics.co.uk/wp-content/uploads/Tutor_ANSI.SO_GXS.pdf) - overview of ANSI ASC X12 Standards 
 - [EDI academy](https://www.ediacademy.com) - online training covering EDI fundamentals and best practices for X12 EDI, EDIFACT, and health care (HIPAA)
 
