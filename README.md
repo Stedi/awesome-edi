@@ -19,7 +19,7 @@ Pull Requests welcome! Feel free to email us at team@stedi.com or log an issue o
 
 - [EDI Inspector (Stedi)](https://www.stedi.com/edi/inspector) - a free online EDI translator and a handy tool for inspecting EDI files. It allows users to visualize EDI documents in a human-readable format, debug issues with detailed validation errors and translate EDI into JSON for easy manipulation and mapping. 
 - [EDI Notepad](https://softwareconnect.com/edi/liaison-edi-notepad/) - **Note**: Liaison EDI Notepad is no longer sold or supported.
-- [EDI Guide Catalog (Stedi)(https://www.stedi.com/edi/catalog) - An open directory of the most-requested Stedi Guides, interactive EDI specifications that let you instantly validate EDI documents.
+- [EDI Guide Catalog (Stedi)](https://www.stedi.com/edi/catalog) - An open directory of the most-requested Stedi Guides, interactive EDI specifications that let you instantly validate EDI documents.
 
 ## Related services and libraries
 *Things you might need when building an EDI system*
