@@ -19,6 +19,7 @@ Pull Requests welcome! Feel free to email us at team@stedi.com or log an issue o
 
 - [EDI Inspector (Stedi)](https://www.stedi.com/edi/inspector) - a free online EDI translator and a handy tool for inspecting EDI files. It allows users to visualize EDI documents in a human-readable format, debug issues with detailed validation errors and translate EDI into JSON for easy manipulation and mapping. 
 - [EDI Notepad](https://softwareconnect.com/edi/liaison-edi-notepad/) - **Note**: Liaison EDI Notepad is no longer sold or supported.
+- [EDI Guide Catalog (Stedi)(https://www.stedi.com/edi/catalog) - An open directory of the most-requested Stedi Guides, interactive EDI specifications that let you instantly validate EDI documents.
 
 ## Related services and libraries
 *Things you might need when building an EDI system*
@@ -26,8 +27,7 @@ Pull Requests welcome! Feel free to email us at team@stedi.com or log an issue o
 - [Mappings (Stedi)](https://www.stedi.com/products/mappings) - a visual mapping editor to create advanced data transformations using an open-source language called JSONata. Once a mapping is defined, users can invoke it via API. 
 - [JSONata Playground (Stedi)](https://www.stedi.com/jsonata/playground) - a free online tool to learn and experiment with JSONata. 
 - [SFTP (Stedi)](https://www.stedi.com/products/sftp) - serverless SFTP endpoints to facilitate file transfer between trading partners. Users can be provisioned via UI or API.
-- [Write EDI demo (Stedi)](https://github.com/Stedi-Demos/write-edi-demo) - open-source, end-to-end system to generate outbound X12 EDI from a JSON.
-- [Read EDI demo (Stedi)](https://github.com/Stedi-Demos/read-edi-demo) - open-source, end-to-end system to read inbound X12 EDI and translate it to JSON.
+- [EDI Bootstrap (Stedi)](https://github.com/Stedi-Demos/bootstrap) - open-source, end-to-end system to generate and parse X12 EDI from a JSON.
 - [EDI Guides (Stedi)](https://www.stedi.com/products/guides) - create machine-readable EDI specifications.
 
 ## Content
