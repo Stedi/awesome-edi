@@ -6,7 +6,6 @@ Pull Requests welcome! Feel free to email us at team@stedi.com or log an issue o
 
 ## Parsers
 
-- [EDI Translate (Stedi)](https://www.stedi.com/products/edi-translate) - an API for programmatically translating between EDI and JSON. 
 - [Stupidedi](https://github.com/kputnam/stupidedi) - a library for parsing, generating, validating, and manipulating ASC X12 EDI documents. Very roughly, it&#39;s jQuery for EDI.
 
 ## Reference sites
@@ -26,8 +25,6 @@ Pull Requests welcome! Feel free to email us at team@stedi.com or log an issue o
 
 - [Mappings (Stedi)](https://www.stedi.com/products/mappings) - a visual mapping editor to create advanced data transformations using an open-source language called JSONata. Once a mapping is defined, users can invoke it via API. 
 - [JSONata Playground (Stedi)](https://www.stedi.com/jsonata/playground) - a free online tool to learn and experiment with JSONata. 
-- [SFTP (Stedi)](https://www.stedi.com/products/sftp) - serverless SFTP endpoints to facilitate file transfer between trading partners. Users can be provisioned via UI or API.
-- [EDI Bootstrap (Stedi)](https://github.com/Stedi-Demos/bootstrap) - open-source, end-to-end system to generate and parse X12 EDI from a JSON.
 - [EDI Guides (Stedi)](https://www.stedi.com/products/guides) - create machine-readable EDI specifications.
 
 ## Content
