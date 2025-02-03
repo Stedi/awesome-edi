@@ -1,4 +1,4 @@
-# Awesome EDI 
+# Awesome EDI
 
 A curated list of awesome EDI (Electronic Data Interchange) tools &amp; libraries, products, blogs, and other resources.
 
@@ -13,18 +13,20 @@ Pull Requests welcome! Feel free to email us at team@stedi.com or log an issue o
 - [EDI Reference (Stedi)](https://www.stedi.com/edi) - a free, comprehensive online resource for X12 EDI. Covers all transaction sets, segments, and elements of every X12 release with a full-text search.
 - [Glass](https://x12.org/products/glass) - Glass is X12's online viewer, providing web-based access to many X12 products, including the EDI Standard, Code Source Directory, Control Standards, EDI Standard Figures, Guidelines and Technical Reports.
 
-## Tools 
+## Tools
 *Debuggers, editors, and more*
 
-- [EDI Inspector (Stedi)](https://www.stedi.com/edi/inspector) - a free online EDI translator and a handy tool for inspecting EDI files. It allows users to visualize EDI documents in a human-readable format, debug issues with detailed validation errors and translate EDI into JSON for easy manipulation and mapping. 
+- [EDI Inspector (Stedi)](https://www.stedi.com/edi/inspector) - a free online EDI translator and a handy tool for inspecting EDI files. It allows users to visualize EDI documents in a human-readable format, debug issues with detailed validation errors and translate EDI into JSON for easy manipulation and mapping.
 - [EDI Notepad](https://softwareconnect.com/edi/liaison-edi-notepad/) - **Note**: Liaison EDI Notepad is no longer sold or supported.
 - [EDI Guide Catalog (Stedi)](https://www.stedi.com/edi/catalog) - An open directory of the most-requested Stedi Guides, interactive EDI specifications that let you instantly validate EDI documents.
+- [EDI X12 Tree-sitter grammar](https://github.com/hugginsio/tree-sitter-x12) - A [tree-sitter](https://github.com/tree-sitter/tree-sitter) grammar for EDI X12.
+- [EDI X12 extension for Zed](https://github.com/hugginsio/zed-edi) - Basic syntax highlighting extension for the [Zed](https://github.com/zed-industries/zed) code editor.
 
 ## Related services and libraries
 *Things you might need when building an EDI system*
 
-- [Mappings (Stedi)](https://www.stedi.com/products/mappings) - a visual mapping editor to create advanced data transformations using an open-source language called JSONata. Once a mapping is defined, users can invoke it via API. 
-- [JSONata Playground (Stedi)](https://www.stedi.com/jsonata/playground) - a free online tool to learn and experiment with JSONata. 
+- [Mappings (Stedi)](https://www.stedi.com/products/mappings) - a visual mapping editor to create advanced data transformations using an open-source language called JSONata. Once a mapping is defined, users can invoke it via API.
+- [JSONata Playground (Stedi)](https://www.stedi.com/jsonata/playground) - a free online tool to learn and experiment with JSONata.
 - [EDI Guides (Stedi)](https://www.stedi.com/products/guides) - create machine-readable EDI specifications.
 
 ## Content
@@ -42,8 +44,8 @@ Pull Requests welcome! Feel free to email us at team@stedi.com or log an issue o
 *For newbies looking to learn about EDI*
 
 - [EDI basics](https://www.edibasics.com) - EDI fundamentals
-- [EDI Essentials (Stedi)](https://www.stedi.com/edi/essentials/index) - just enough to get started with EDI 
-- [GXS Tutorial](http://www.edibasics.co.uk/wp-content/uploads/Tutor_ANSI.SO_GXS.pdf) - overview of ANSI ASC X12 Standards 
+- [EDI Essentials (Stedi)](https://www.stedi.com/edi/essentials/index) - just enough to get started with EDI
+- [GXS Tutorial](http://www.edibasics.co.uk/wp-content/uploads/Tutor_ANSI.SO_GXS.pdf) - overview of ANSI ASC X12 Standards
 - [EDI academy](https://www.ediacademy.com) - online training covering EDI fundamentals and best practices for X12 EDI, EDIFACT, and health care (HIPAA)
 
 ## Books
