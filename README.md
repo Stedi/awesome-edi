@@ -25,9 +25,9 @@ Pull Requests welcome! Feel free to email us at team@stedi.com or log an issue o
 ## Related services and libraries
 *Things you might need when building an EDI system*
 
-- [Mappings (Stedi)](https://www.stedi.com/products/mappings) - a visual mapping editor to create advanced data transformations using an open-source language called JSONata. Once a mapping is defined, users can invoke it via API.
+- [Mappings (Stedi)](https://www.stedi.com/docs/edi-platform/mappings/index) - a visual mapping editor to create advanced data transformations using an open-source language called JSONata. Once a mapping is defined, users can invoke it via API.
 - [JSONata Playground (Stedi)](https://www.stedi.com/jsonata/playground) - a free online tool to learn and experiment with JSONata.
-- [EDI Guides (Stedi)](https://www.stedi.com/products/guides) - create machine-readable EDI specifications.
+- [EDI Guides (Stedi)](https://www.stedi.com/docs/edi-platform/guides/index) - create machine-readable EDI specifications.
 
 ## Content
 
